@@ -1,0 +1,12 @@
+torch==2.5.1
+lightning==2.4.0
+
+rdkit==2025.3.6
+numpy==2.3.3
+scipy==1.16.2
+pandas==2.3.2
+
+nmrglue==0.11
+jcamp==1.2.2
+
+tensorboard==2.20.0
