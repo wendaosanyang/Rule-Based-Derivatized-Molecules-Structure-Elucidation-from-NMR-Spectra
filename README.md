@@ -162,15 +162,6 @@ Major dependencies include
 
 Additional package versions can be found in the notebooks or environment configuration.
 
----
-
-# Citation
-
-If you use this repository in your research, please cite
-
-(Your JCIM paper after publication)
-
-and the original NMR2Struct paper.
 
 ---
 
