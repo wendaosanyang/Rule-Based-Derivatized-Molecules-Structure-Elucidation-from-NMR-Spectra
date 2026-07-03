@@ -50,11 +50,11 @@ The processed datasets and trained model checkpoints are available on Zenodo:
 
 **Dataset**
 
-> (Zenodo DOI)
+> [(Zenodo DOI)](https://doi.org/10.5281/zenodo.21126628)
 
 **Model checkpoints**
 
-> (Zenodo DOI)
+> [(Zenodo DOI)](https://doi.org/10.5281/zenodo.21126628)
 
 After downloading, place the files into
 
