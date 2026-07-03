@@ -13,7 +13,7 @@ The repository contains the code used for molecular generation, data preprocessi
 
 ```
 .
-├── Model_Example/                  # Example model files (model checkpoints are available on Zenodo)
+├── checkpoints/                  # Example model files (model checkpoints are available on Zenodo)
 ├── SMILES_Expand/                  # Rule-based molecular generation and SMILES augmentation
 ├── nmr/                            # Original NMR2Struct implementation (MIT License)
 ├── training.ipynb                  # Model training example
